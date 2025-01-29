@@ -15,8 +15,9 @@ et dedans rajouter un sous titre avec le nom du langage et à l'intérieur le lo
 5. Ensuite chaque personne va merge sa branche sur la main au fur et à mesure pour qu'à la fin tout le monde ait le fichier avec tous les langages dedans (ne pas push la branche)
 
 ## Membres du groupe
-1. Membre 1
-2. Membre 2
+1. Sami
+2. 
+3.
 
 ## Liens vers les animaux
 

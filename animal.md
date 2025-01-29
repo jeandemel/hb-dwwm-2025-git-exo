@@ -1,10 +1,16 @@
-# Nom animal
+# Lion
 
-Description rapide
+Le lion est un gros chat paresseux.
 
-Une image avec une légende
+Une image avec une légende:
+![Lion](lion.jpg)
 
-Un sous titre "Caractéristique"
-Cette section contiendra une liste avec le régime alimentaire de l'animal, si c'est un animal domestique ou non, la zone géographique dans laquelle on le trouve.
+## Caractéristique
+- Il mange de la bonne viande fraiche label rouge
+- Il est sauvage 
+- On le trouve généralement dans son mirroir quand on a confiance en soi.
 
-Un sous titre "Sous espèces" avec une liste de nom d'animaux de sous espèce de cet animal
+## Sous espèces
+1. Le chat
+2. Le Jaguar
+3. Le puma
