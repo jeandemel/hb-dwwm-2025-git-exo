@@ -6,8 +6,8 @@
 
 exemple création d'une variable en JS
 
-```
-let a = 1
+```js
+let a = 1;
 ```
 
 ## css
