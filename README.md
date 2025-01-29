@@ -12,8 +12,9 @@ En utilisant des fichiers markdown voici les choses à faire :
 3. Ensuite chaque membre viendra modifier ce fichier pour faire un lien vers le fichier animal sur sa branche dans la section adaptée
 
 ## Membres du groupe
-1. Membre 1
-2. Membre 2
+1. Sami
+2. 
+3.
 
 ## Liens vers les animaux
 
